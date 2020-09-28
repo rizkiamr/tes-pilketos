@@ -1,0 +1,11 @@
+.hero{
+    background: url('/assets/resources/home/landing.png');
+    width: 100px;
+    height: 100px;
+}
+
+.img{
+    background-image: url('../../resources/bg2.png');
+    width: 100px;
+    height: 100px;
+}
