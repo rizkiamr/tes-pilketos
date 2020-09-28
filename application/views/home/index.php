@@ -18,7 +18,7 @@
                             <br>
                             <br>
                             <a href=" <?= base_url(); ?>/admin/login" class="btn " style="background: #1955bd; color: #fff;">login admin</a>
-                            <a href=" <?= base_url(); ?> /user/login" class="btn ml-2" style="background: #35496e; color: #fff;">login user</a>
+                            <a href=" <?= base_url(); ?>/user/login" class="btn ml-2" style="background: #35496e; color: #fff;">login user</a>
                         
                     </div>
 
