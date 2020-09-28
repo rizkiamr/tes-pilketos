@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'db-pilketos.mysql.database.azure.com',
+	'username' => 'dbpilketos@db-pilketos',
+	'password' => 'Pilketoshokyahokya!123',
 	'database' => 'pilketos',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
