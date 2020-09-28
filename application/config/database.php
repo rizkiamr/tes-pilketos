@@ -89,7 +89,7 @@ $db['default'] = array(
 	'dbcollat' => 'utf8_general_ci',
 	'swap_pre' => '',
 	'encrypt' => array (
-	    'ssl_ca' => realpath('./BaltimoreCyberTrustRoot.crt),
+	    'ssl_ca' => realpath('./BaltimoreCyberTrustRoot.crt'),
 	    'ssl_verify' => FALSE
 	),
 	'compress' => FALSE,
